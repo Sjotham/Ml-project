@@ -1,5 +1,5 @@
 # Ml-project
-Assignment 1
+image classification using deep learning
 This repository has a files for this assignment
 There is MLP.py, CCN.py, 
 there is Makefile which is structure in this format
